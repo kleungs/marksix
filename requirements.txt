@@ -4,3 +4,4 @@ ipywidgets== 7.6.3
 datetime  == 4.3
 lxml      == 4.6.2
 voila     == 0.3.6
+jupyterlab~=3.0
