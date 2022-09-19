@@ -1,4 +1,4 @@
-alembic @ file:///home/conda/feedstock_root/build_artifacts/alembic_1611966421058/work
+#alembic @ file:///home/conda/feedstock_root/build_artifacts/alembic_1611966421058/work
 anyio==3.6.1
 appdirs @ file:///home/conda/feedstock_root/build_artifacts/appdirs_1603108395799/work
 argon2-cffi @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi_1610522574055/work
