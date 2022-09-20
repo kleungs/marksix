@@ -3,6 +3,5 @@ numpy     == 1.20.0
 ipywidgets== 7.6.3
 datetime  == 4.3
 lxml      == 4.6.2
-voila     == 0.3.6
 jupyterlab == 2.2.9
 widgetsnbextension == 3.5.1
