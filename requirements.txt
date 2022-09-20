@@ -5,3 +5,4 @@ datetime  == 4.3
 lxml      == 4.6.2
 voila    == 0.3.6
 widgetsnbextension == 3.5.1
+jupyter_contrib_nbextensions
